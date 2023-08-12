@@ -6,13 +6,16 @@ Altair ROM is a custom Android ROM based on LineageOS with some tweaks, changes,
 
 Currently supported devices are:
 
-- (insert list here)
+- OnePlus 3/3T
+- OnePlus 7 Pro
+- OnePlus 9 Pro
+- Samsung Galaxy Tab S6 Lite (Wi-Fi)
 
 Note that these are the only devices I can support because they're the only ones I own and can test. If you've got a handle on building AOSP-based Android ROMs (especially LineageOS), you're more than welcome to download the Altair ROM code and add the files necessary for your device. LineageOS itself supports many devices, and if yours is one of them, it shouldn't be too much work to add the repositories necessary for your device and roll your own, what with Altair ROM being based on the LineageOS source!
 
-## **New Features**
+## **Device Tree Sources**
 
-## **Changes**
+Sources for the device trees of each supported device can be found in the [Altair ROM Devices repository](https://github.com/AltairROM-Devices).
 
 ## **Acknowledgments**
 
