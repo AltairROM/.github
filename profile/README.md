@@ -15,7 +15,7 @@ Note that these are the only devices I can support because they're the only ones
 
 ## **Device Tree Sources**
 
-Sources for the device trees of each supported device can be found in the [Altair ROM Devices repository](https://github.com/AltairROM-Devices).
+Sources for the device trees of each supported device can be found at [Altair ROM Devices](https://github.com/AltairROM-Devices).
 
 ## **Acknowledgments**
 
