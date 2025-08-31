@@ -13,6 +13,8 @@ Currently supported devices and Android versions are:
 
 Note that these are the only devices I can support because they're the only ones I own and can test. If you've got a handle on building AOSP-based Android ROMs (especially LineageOS), you're more than welcome to download the Altair ROM code and add the files necessary for your device. LineageOS itself supports many devices, and if yours is one of them, it shouldn't be too much work to add the repositories necessary for your device and roll your own, what with Altair ROM being based on the LineageOS source!
 
+Sources for older Android versions and no-longer-supported devices can be found at [Altair ROM Archive](https://github.com/AltairROM-Archive). Note that these sources are for archival purposes only, and they are no longer maintained or supported.
+
 ## **Device Tree Sources**
 
 Sources for the device trees of each supported device can be found at [Altair ROM Devices](https://github.com/AltairROM-Devices).
