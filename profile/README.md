@@ -21,4 +21,4 @@ Sources for the device trees of each supported device can be found at [Altair RO
 
 ## **Acknowledgments**
 
-Thanks to the creators and maintainers of LineageOS, AospExtended, crDroid, Havoc-OC, OmniROM, and anyone else I'm forgetting!
+Thanks to the creators and maintainers of LineageOS, crDroid Android, AxionOS, OmniROM, AospExtended, Havoc-OS, and anyone else I'm forgetting!
